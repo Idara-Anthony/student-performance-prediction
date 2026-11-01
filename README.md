@@ -279,11 +279,11 @@ Student-Performance-Prediction/
 │
 ├── README.md
 ├── Student_performance_model.ipynb
-└── student_performance.csv
+└── StudentPerformanceFactors.csv
 ```
 
 | File | Description |
 |---|---|
 | README.md | Project documentation |
 | Student_performance_model.ipynb | Notebook containing data analysis, preprocessing, model training and evaluation |
-| student_performance.csv | Dataset used for the project |
+| StudentPerformanceFactors.csv | Dataset used for the project |
